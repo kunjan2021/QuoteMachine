@@ -51,5 +51,5 @@ twitterBtn.addEventListener('click', tweetQuote);
 
 
 
-//On Load
+//On Loading Page
 getQuotes();
